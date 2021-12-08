@@ -1,2 +1,2 @@
 # Bootstrap
- Primeiro projetinho em boostrap
+Primeiro projetinho utilizando boostrap 🦄
